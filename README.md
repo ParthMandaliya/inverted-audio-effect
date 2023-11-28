@@ -1,9 +1,9 @@
-# inverted-audio-effect
-Inverting an audio file and playing both together to see inverted audio effect in action. As both cancel out each other and we hear nothing.
+# inverted-audio-effect <a href="https://www.buymeacoffee.com/parthmandaliya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" align="right"></a>
+Inversing an audio file 180 degrees and playing it together with the original audio to see the inverse audio effect in action. As both cancel out each other.
 
 Download any audio or use the one have.
 
-This uses VLC pip library, make sure you have following libraries installed.
+This uses VLC pip library, make sure you have the following libraries installed.
 
 ## Installing dependencies
 
